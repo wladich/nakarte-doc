@@ -11,3 +11,11 @@
       overflow: visible !important;
    }
 }
+
+div[role=main] p {
+   margin-bottom: 10px !important;
+}
+
+table.field-list td, table.field-list th {
+   padding: 0 8px !important;
+}
