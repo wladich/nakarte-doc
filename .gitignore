@@ -4,3 +4,4 @@ _build
 _build_deploy
 _themes
 _venv
+deploy.sh
