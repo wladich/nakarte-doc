@@ -3,7 +3,7 @@
 
 # You can set these variables from the command line.
 SPHINXOPTS    =
-SPHINXBUILD   = sphinx-build
+SPHINXBUILD   = _venv/bin/sphinx-build
 SPHINXPROJ    = nakarte
 SOURCEDIR     = .
 BUILDDIR      = _build
