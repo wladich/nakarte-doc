@@ -30,8 +30,10 @@
 
 2. Проверяем, что модель нашего прибора есть
    `в  списке поддерживаемых устройств <http://whiter.brinkster.net/Versions.shtml>`_.
-3. `Скачиваем <http://whiter.brinkster.net/generated/LatestGarminFirmwares.html>`_
-   последнюю версию прошивки для своей модели прибора.
+3. Скачиваем последнюю версию прошивки для своей модели прибора
+   `отсюда <http://whiter.brinkster.net/generated/LatestGarminFirmwares.html>`__
+   или `отсюда <http://gawisp.com/perry/>`__
+   (первый список удобнее, но некоторые ссылки нерабочие).
    Версия прошивки в колонке "Firmware Version"
    должна оказаться равной или больше версии из п.1
 4. Скачиваем `патчер <http://whiter.brinkster.net/FirmwarePatcher.html>`_
