@@ -49,7 +49,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'nakarte.me'
-copyright = '2018, Sergey Orlov'
+copyright = '2020, Sergey Orlov'
 author = 'Sergey Orlov'
 
 # The version info for the project you're documenting, acts as replacement for
