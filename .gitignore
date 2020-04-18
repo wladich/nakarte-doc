@@ -5,3 +5,4 @@ _build_deploy
 _themes
 _venv
 deploy.sh
+_static/lecture_files
