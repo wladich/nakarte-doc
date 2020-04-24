@@ -1,5 +1,5 @@
-Видеолекция для Горного турклуба МГУ 16 апреля 2020 г.
-======================================================
+Видеолекция для Горного турклуба МГУ 16 и 23 апреля 2020 г.
+===========================================================
 
 Видеоролики можно разворачивать на весь экран
 
@@ -212,3 +212,109 @@
     Your browser does not support the video tag.
     </video>
 
+Печать
+------
+
+* Наложение карт при печати
+* Базовые и расширенные настройки
+* Размещение листов
+* Печать треков и точек
+* Информация на напечатанном листе
+* Сохранение листа как картинки
+* Ограничения на размер листа
+* Проблемы с печатью некоторых карт
+* Вопсросы: ещё раз про ручной выбор исходного уровня
+
+.. raw:: html
+
+    <video width="600" controls>
+        <source src="_static/lecture_files/05_печать.mp4">
+    Your browser does not support the video tag.
+    </video>
+
+JNX
+---
+
+* Подготовка навигатора
+* Выбор области
+* Выбор уровня
+* Ограночения на размер
+
+.. raw:: html
+
+    <video width="600" controls>
+        <source src="_static/lecture_files/06_jnx.mp4">
+    Your browser does not support the video tag.
+    </video>
+
+Геолокация
+----------
+
+* Разрешение в браузере
+* Три режима кнопки
+* Точность определения координат
+* Зачем нужно на стационарном компьютере
+
+.. raw:: html
+
+    <video width="600" controls>
+        <source src="_static/lecture_files/07_геолокация.mp4">
+    Your browser does not support the video tag.
+    </video>
+
+Панорамы
+--------
+
+* Горячие клавиши
+* Источники данных
+* Маркер показывает направление
+
+.. raw:: html
+
+    <video width="600" controls>
+        <source src="_static/lecture_files/08_панорамы.mp4">
+    Your browser does not support the video tag.
+    </video>
+
+Координаты
+----------
+
+* Форматы
+* Копирование в буфер
+
+.. raw:: html
+
+    <video width="600" controls>
+        <source src="_static/lecture_files/09_координаты.mp4">
+    Your browser does not support the video tag.
+    </video>
+
+Азимут и линия видимости
+------------------------
+
+.. raw:: html
+
+    <video width="600" controls>
+        <source src="_static/lecture_files/10_азимуты.mp4">
+    Your browser does not support the video tag.
+    </video>
+
+Масштабная линейка, индикация масштабного уровня
+------------------------------------------------
+
+.. raw:: html
+
+    <video width="600" controls>
+        <source src="_static/lecture_files/11_линейка_зум.mp4">
+    Your browser does not support the video tag.
+    </video>
+
+Ссылки на состояние приложения и сохранение треков в памяти браузера
+--------------------------------------------------------------------
+
+.. raw:: html
+
+    <video width="600" controls>
+        <source src="_static/lecture_files/12_ссылки_треки.mp4">
+    Your browser does not support the video tag.
+    </video>
