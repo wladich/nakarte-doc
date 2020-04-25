@@ -5,4 +5,5 @@ _build_deploy
 _themes
 _venv
 deploy.sh
-_static/lecture_files
+_static/lecture_files/*.mp4
+_static/lecture_files/*.webm
