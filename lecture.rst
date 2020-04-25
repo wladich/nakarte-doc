@@ -13,7 +13,8 @@
 .. raw:: html
 
     <video width="600" controls>
-        <source src="_static/lecture_files/01_введение.mp4">
+        <source src="_static/lecture_files/01_введение.mp4" type="video/mp4">
+        <source src="_static/lecture_files/01_введение.webm" type="video/webm">
     Your browser does not support the video tag.
     </video>
 
@@ -28,7 +29,8 @@
 .. raw:: html
 
     <video width="600" controls>
-        <source src="_static/lecture_files/02_обзор_интерфейса.mp4">
+        <source src="_static/lecture_files/02_обзор_интерфейса.mp4" type="video/mp4">
+        <source src="_static/lecture_files/02_обзор_интерфейса.webm" type="video/webm">
     Your browser does not support the video tag.
     </video>
 
@@ -41,7 +43,8 @@
 .. raw:: html
 
     <video width="600" controls>
-        <source src="_static/lecture_files/03_01_слои_хоткеи_настройки.mp4">
+        <source src="_static/lecture_files/03_01_слои_хоткеи_настройки.mp4" type="video/mp4">
+        <source src="_static/lecture_files/03_01_слои_хоткеи_настройки.webm" type="video/webm">
     Your browser does not support the video tag.
     </video>
 
@@ -53,7 +56,8 @@
 .. raw:: html
 
     <video width="600" controls>
-        <source src="_static/lecture_files/03_02_слои_osm.mp4">
+        <source src="_static/lecture_files/03_02_слои_osm.mp4" type="video/mp4">
+        <source src="_static/lecture_files/03_02_слои_osm.webm" type="video/webm">
     Your browser does not support the video tag.
     </video>
 
@@ -67,7 +71,8 @@
 .. raw:: html
 
     <video width="600" controls>
-        <source src="_static/lecture_files/03_03_слои_топо.mp4">
+        <source src="_static/lecture_files/03_03_слои_топо.mp4" type="video/mp4">
+        <source src="_static/lecture_files/03_03_слои_топо.webm" type="video/webm">
     Your browser does not support the video tag.
     </video>
 
@@ -79,7 +84,8 @@
 .. raw:: html
 
     <video width="600" controls>
-        <source src="_static/lecture_files/03_04_слои_вестра_оспорт_спутник_даты_страва.mp4">
+        <source src="_static/lecture_files/03_04_слои_вестра_оспорт_спутник_даты_страва.mp4" type="video/mp4">
+        <source src="_static/lecture_files/03_04_слои_вестра_оспорт_спутник_даты_страва.webm" type="video/webm">
     Your browser does not support the video tag.
     </video>
 
@@ -94,7 +100,8 @@
 .. raw:: html
 
     <video width="600" controls>
-        <source src="_static/lecture_files/03_05_слои_wikimaia_geocaching_разграфка_локальные_гибрид_хребтовки_slazav.mp4">
+        <source src="_static/lecture_files/03_05_слои_wikimaia_geocaching_разграфка_локальные_гибрид_хребтовки_slazav.mp4" type="video/mp4">
+        <source src="_static/lecture_files/03_05_слои_wikimaia_geocaching_разграфка_локальные_гибрид_хребтовки_slazav.webm" type="video/webm">
     Your browser does not support the video tag.
     </video>
 
@@ -116,7 +123,8 @@
 .. raw:: html
 
     <video width="600" controls>
-        <source src="_static/lecture_files/04_01_треки_основы.mp4">
+        <source src="_static/lecture_files/04_01_треки_основы.mp4" type="video/mp4">
+        <source src="_static/lecture_files/04_01_треки_основы.webm" type="video/webm">
     Your browser does not support the video tag.
     </video>
 
@@ -162,7 +170,8 @@
 .. raw:: html
 
     <video width="600" controls>
-        <source src="_static/lecture_files/04_02_треки_редактирование.mp4">
+        <source src="_static/lecture_files/04_02_треки_редактирование.mp4" type="video/mp4">
+        <source src="_static/lecture_files/04_02_треки_редактирование.webm" type="video/webm">
     Your browser does not support the video tag.
     </video>
 
@@ -182,7 +191,8 @@
 .. raw:: html
 
     <video width="600" controls>
-        <source src="_static/lecture_files/04_03_треки_профиль.mp4">
+        <source src="_static/lecture_files/04_03_треки_профиль.mp4" type="video/mp4">
+        <source src="_static/lecture_files/04_03_треки_профиль.webm" type="video/webm">
     Your browser does not support the video tag.
     </video>
 
@@ -208,7 +218,8 @@
 .. raw:: html
 
     <video width="600" controls>
-        <source src="_static/lecture_files/04_04_треки_загрузка.mp4">
+        <source src="_static/lecture_files/04_04_треки_загрузка.mp4" type="video/mp4">
+        <source src="_static/lecture_files/04_04_треки_загрузка.webm" type="video/webm">
     Your browser does not support the video tag.
     </video>
 
@@ -228,7 +239,8 @@
 .. raw:: html
 
     <video width="600" controls>
-        <source src="_static/lecture_files/05_печать.mp4">
+        <source src="_static/lecture_files/05_печать.mp4" type="video/mp4">
+        <source src="_static/lecture_files/05_печать.webm" type="video/webm">
     Your browser does not support the video tag.
     </video>
 
@@ -243,7 +255,8 @@ JNX
 .. raw:: html
 
     <video width="600" controls>
-        <source src="_static/lecture_files/06_jnx.mp4">
+        <source src="_static/lecture_files/06_jnx.mp4" type="video/mp4">
+        <source src="_static/lecture_files/06_jnx.webm" type="video/webm">
     Your browser does not support the video tag.
     </video>
 
@@ -258,7 +271,8 @@ JNX
 .. raw:: html
 
     <video width="600" controls>
-        <source src="_static/lecture_files/07_геолокация.mp4">
+        <source src="_static/lecture_files/07_геолокация.mp4" type="video/mp4">
+        <source src="_static/lecture_files/07_геолокация.webm" type="video/webm">
     Your browser does not support the video tag.
     </video>
 
@@ -272,7 +286,8 @@ JNX
 .. raw:: html
 
     <video width="600" controls>
-        <source src="_static/lecture_files/08_панорамы.mp4">
+        <source src="_static/lecture_files/08_панорамы.mp4" type="video/mp4">
+        <source src="_static/lecture_files/08_панорамы.webm" type="video/webm">
     Your browser does not support the video tag.
     </video>
 
@@ -285,7 +300,8 @@ JNX
 .. raw:: html
 
     <video width="600" controls>
-        <source src="_static/lecture_files/09_координаты.mp4">
+        <source src="_static/lecture_files/09_координаты.mp4" type="video/mp4">
+        <source src="_static/lecture_files/09_координаты.webm" type="video/webm">
     Your browser does not support the video tag.
     </video>
 
@@ -295,7 +311,8 @@ JNX
 .. raw:: html
 
     <video width="600" controls>
-        <source src="_static/lecture_files/10_азимуты.mp4">
+        <source src="_static/lecture_files/10_азимуты.mp4" type="video/mp4">
+        <source src="_static/lecture_files/10_азимуты.webm" type="video/webm">
     Your browser does not support the video tag.
     </video>
 
@@ -305,7 +322,8 @@ JNX
 .. raw:: html
 
     <video width="600" controls>
-        <source src="_static/lecture_files/11_линейка_зум.mp4">
+        <source src="_static/lecture_files/11_линейка_зум.mp4" type="video/mp4">
+        <source src="_static/lecture_files/11_линейка_зум.webm" type="video/webm">
     Your browser does not support the video tag.
     </video>
 
@@ -315,6 +333,7 @@ JNX
 .. raw:: html
 
     <video width="600" controls>
-        <source src="_static/lecture_files/12_ссылки_треки.mp4">
+        <source src="_static/lecture_files/12_ссылки_треки.mp4" type="video/mp4">
+        <source src="_static/lecture_files/12_ссылки_треки.webm" type="video/webm">
     Your browser does not support the video tag.
     </video>
